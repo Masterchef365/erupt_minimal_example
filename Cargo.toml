@@ -1,0 +1,9 @@
+[package]
+name = "erupt_minimal_example"
+version = "0.1.0"
+authors = ["Masterchef365 <duncan.freeman1@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0"
+erupt = "0.15"
